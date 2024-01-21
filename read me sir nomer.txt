@@ -1,0 +1,10 @@
+default username and passwords.
+
+u: admin
+p: admin
+
+u: seller
+p: seller
+
+u: buyer
+p: buyer
